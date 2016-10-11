@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment1Part2</string>
+    <string name="inputHint">Enter a double.</string>
+</resources>
